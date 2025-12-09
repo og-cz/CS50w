@@ -1,7 +1,7 @@
 # CS50w
 [CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/)
 
-- [HTML, CSS](_)
+- [HTML, CSS](./week0/_LECTURES/README.md)
 - [Git](_)
 - [Python](_)
 - [Django](_)
